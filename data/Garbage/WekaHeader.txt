@@ -1,0 +1,16 @@
+@relation Breast.cancer
+
+@attribute A1 {1,2,3,4,5,6,7,8,9,10}
+@attribute A2 {1,2,3,4,5,6,7,8,9,10}
+@attribute A3 {1,2,3,4,5,6,7,8,9,10}
+@attribute A4 {1,2,3,4,5,6,7,8,9,10}
+@attribute A5 {1,2,3,4,5,6,7,8,9,10}
+@attribute A6 {1,2,3,4,5,6,7,8,9,10}
+@attribute A7 {1,2,3,4,5,6,7,8,9,10}
+@attribute A8 {1,2,3,4,5,6,7,8,9,10}
+@attribute A9 {1,2,3,4,5,6,7,8,9,10}
+@attribute class {0,1}
+
+
+
+@data
