@@ -21,8 +21,11 @@ problems from numerous and diverse application areas. Typically these algorithms
 each of which has a fitness attached to it, which in some way reflects the quality of the solution. 
 The search proceeds via the iterative generation, evaluation and possible incorporation of new individuals based on the current population, 
 using a number of parameterized genetic operators. 
- 
 
+
+## Project Date
+2012
+ 
 ## Project Memebers  
 
 [1]: Tarequl Islam Sifat 
